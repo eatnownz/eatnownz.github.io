@@ -523,11 +523,11 @@ Version:  1.0
 }
  .mobile_header .vincent_image_logo{
      margin-top: 0;
-     width: 176px;
+     width: 99px;
      height: 99px;
      display: block;
      background: url(../img/logo.png) 0 0 no-repeat transparent;
-     background-size: 176px 99px;
+     background-size: 99px 99px;
 }
  .btn_mobile_menu {
      display: block;
