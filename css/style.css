@@ -526,7 +526,7 @@ Version:  1.0
      width: 99px;
      height: 99px;
      display: block;
-     background: url(../img/logo.png) 0 0 no-repeat transparent;
+     background: url(../img/logo2.png) 0 0 no-repeat transparent;
      background-size: 99px 99px;
 }
  .btn_mobile_menu {
@@ -1214,7 +1214,7 @@ Version:  1.0
      width: 140px;
      height: 140px;
      display: inline-block;
-     background: url(../img/logo.png) 0 0 no-repeat transparent;
+     background: url(../img/logo2.png) 0 0 no-repeat transparent;
      background-size: 140px 140px;
 }
  footer .vincent_logo_cont{
